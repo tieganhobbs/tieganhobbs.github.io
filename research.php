@@ -21,7 +21,7 @@
 
 
 
-<title>Tiegan Hobbs, MSc</title>
+<title>Tiegan Hobbs: Research</title>
 
 
 
@@ -997,22 +997,22 @@ a:hover, .sys_txt a:hover, .sys_layout a:hover {text-decoration: underline;}
                                             <div class="mob_menu_overlay"> <!--Mobile Nav Overlay-->
                                                 <ul class="mob_menu_list">
       <li class="">
-      <a href="./" title="Home">Home</a>
+      <a href="http://tieganhobbs.com" title="Home">Home</a>
           </li>
       <li class="selected">
-      <a href="research.php" title="Research">Research</a>
+      <a href="http://tieganhobbs.com/research.php" title="Research">Research</a>
           </li>
       <li class="">
-      <a href="field.html" title="Field Dispatches">Field</a>
+      <a href="http://tieganhobbs.com/field.html" title="Field Dispatches">Field</a>
           </li>
   </ul>
                                             </div>
                                         </nav>
                                                                                                                         <div id="yola_heading_block"> <!--Title / Logo-->
                                             <h1>
-                                                <a id="sys_heading" class="yola_hide_logo" href="./">
-                                                    <img class="yola_site_logo" src="" alt="Tiegan Hobbs, MSc" >
-                                                    <span>Tiegan Hobbs, MSc</span>
+                                                <a id="sys_heading" class="yola_hide_logo" href="http://tieganhobbs.com">
+                                                    <img class="yola_site_logo" src="" alt="Tiegan Hobbs, PhD, MSCE" >
+                                                    <span>Tiegan Hobbs, PhD, MSCE</span>
                                                 </a>
                                             </h1>
                                         </div>
@@ -1021,13 +1021,13 @@ a:hover, .sys_txt a:hover, .sys_layout a:hover {text-decoration: underline;}
                                                 <div class="sys_navigation">
                                                 <ul class="sys_navigation">
                     <li id="ys_menu_0">
-                    <a href="./" title="Home">Home</a>
+                    <a href="http://tieganhobbs.com" title="Home">Home</a>
         </li>
                     <li id="ys_menu_1"class="selected">
-                    <a href="research.php" title="Research">Research</a>
+                    <a href="http://tieganhobbs.com/research.php" title="Research">Research</a>
         </li>
                     <li id="ys_menu_0">
-                    <a href="field.html" title="Field Dispatches">Field</a>
+                    <a href="http://tieganhobbs.com/field.html" title="Field Dispatches">Field</a>
         </li>
     </ul>
 <script>
